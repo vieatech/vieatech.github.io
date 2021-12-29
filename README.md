@@ -1,4 +1,4 @@
-## Welcome to vieatch
+## Welcome to vieatech
 
 You can use the [editor on GitHub](https://github.com/vieatech/vieatech.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
